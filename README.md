@@ -27,7 +27,7 @@ For testing purposes a standalone Windows executable is also available: http://d
 
 Please note that the Python version of  DiCaLum is still in development, it is a Beta version of the code. Even calibration updates will be performed. More details on the code and its extensions will be available soon.
 
-# A brief description of DiCalum:
+# A brief description of DiCaLum:
 The metrics used in DiCaLum was introduced in this paper:
 
 Zoltán Kolláth, Andrew Cool, Andreas Jechow, Kornél Kolláth, Dénes Száz, Kai Pong Tong: Introducing the dark sky unit for multi-spectral measurement of the night sky quality with commercial digital cameras, Journal of Quantitative Spectroscopy and Radiative Transfer,
