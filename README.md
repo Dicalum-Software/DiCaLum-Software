@@ -1,5 +1,6 @@
 # DiCaLum Software
-Digital Camera Luminance measurements.
+Digital Camera Luminance measurements.  
+Software to generate light pollution maps from raw camera images.
 
 http://dicalum.eu/  
 https://pypi.org/project/dicalum/
