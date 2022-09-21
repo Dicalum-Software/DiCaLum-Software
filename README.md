@@ -44,3 +44,5 @@ Zoltán Kolláth & Anita Dömény: "Night sky quality monitoring in existing and
 Andreas Jechow, Zoltán Kolláth, Salvador J. Ribas, Henk Spoelstra, Franz Hölker & Christopher C. M. Kyba: "Imaging and mapping the impact of clouds on skyglow with all-sky photometry",
 Scientific Reports 7, Article number: 6741 (2017)
 
+![plot](https://user-images.githubusercontent.com/84683703/191617706-83aa031d-26ed-48e0-bd01-6286d1ec63a2.png)
+
