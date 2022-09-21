@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: dicalum
+Version: 4.0b7
+Summary: DiCaLum
+Home-page: UNKNOWN
+Author: Zoltan Kollath
+Author-email: <zkollath@gmail.com>
+License: UNKNOWN
+Keywords: python,sky quality
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: rawpy
+Requires-Dist: exifread
+Requires-Dist: Pillow
+Requires-Dist: scipy
+
+Python version of Digital Camera Luminance
+
+
